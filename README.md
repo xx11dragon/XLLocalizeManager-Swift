@@ -1,0 +1,1 @@
+# XLLocalizeManager_Swift
