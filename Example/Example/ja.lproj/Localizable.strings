@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Example
+
+  Created by xx11dragon on 2019/7/9.
+  Copyright © 2019 xx11dragon. All rights reserved.
+*/
+
+"你好世界" = "こんにちは世界";
+
+"示例" = "例";
+
+"语言" = "言語";
+
+"添加" = "追加する";
+
+"请输入账号" = "口座番号を入力してください";
+
+"注册" = "登録";
+
+"加载中" = "ロード中";

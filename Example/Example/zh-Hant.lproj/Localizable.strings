@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Example
+
+  Created by xx11dragon on 2019/7/9.
+  Copyright © 2019 xx11dragon. All rights reserved.
+*/
+
+"你好世界" = "你好世界";
+
+"示例" = "示例";
+
+"语言" = "語言";
+
+"添加" = "添加";
+
+"请输入账号" = "請輸入賬號";
+
+"注册" = "註冊";
+
+"加载中" = "加載中";
